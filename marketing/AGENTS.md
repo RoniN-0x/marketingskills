@@ -26,7 +26,7 @@ Read only the role brief needed for the task. All roles report to this chief of 
 - `clients/` — business briefs and reusable intake.
 - `campaigns/` — dated plans, drafts, assets inventory, results.
 - `agents/` — role instructions and directory.
-- `.agents/skills/cafe-local-marketing/SKILL.md` — reusable café/restaurant marketing workflow.
+- `skills/cafe-local-marketing/SKILL.md` — reusable café/restaurant marketing workflow.
 - `templates/` — audit and campaign templates.
 
 Start with `clients/yummy-ranchi.md` for the first listed business. The shared Google Maps link is a source of public listing details, not proof that all details are current. Confirm sensitive or changeable information with the owner before using it in public copy.
